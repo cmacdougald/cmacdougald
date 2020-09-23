@@ -1,4 +1,10 @@
-### Hi there 👋
+# Chris MacDougald
+
+## Adjunct Faculty
+
+### 2002 - Present
+
+Computer Science, Game Design, Game Programming, Programming, & Project Development
 
 <!--
 **cmacdougald/cmacdougald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
