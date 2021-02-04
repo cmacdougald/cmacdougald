@@ -6,6 +6,8 @@
 
 Computer Science, Game Design, Game Programming, Programming, & Project Development
 
+![](https://komarev.com/ghpvc/?username=cmacdougald&color=lightgrey)
+
 <!--
 **cmacdougald/cmacdougald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
